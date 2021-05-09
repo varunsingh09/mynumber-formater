@@ -1,0 +1,22 @@
+{
+  "name": "formater",
+  "version": "1.0.0",
+  "description": "text formater",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunsingh09/formater.git"
+  },
+  "author": "Varun Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunsingh09/formater/issues"
+  },
+  "homepage": "https://github.com/varunsingh09/formater#readme"
+}
