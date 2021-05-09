@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/varunsingh09/formater/issues"
   },
-  "homepage": "https://github.com/varunsingh09/formater#readme"
+  "homepage": "https://github.com/varunsingh09/formater#readme",
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  },
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
 }
