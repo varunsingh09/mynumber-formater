@@ -1,5 +1,5 @@
 {
-  "name": "formater",
+  "name": "@varunsingh09/mynumber-formater",
   "version": "1.0.0",
   "description": "text formater",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/varunsingh09/formater.git"
+    "url": "git+https://github.com/varunsingh09/mynumber-formater.git"
   },
   "author": "Varun Singh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/varunsingh09/formater/issues"
+    "url": "https://github.com/varunsingh09/mynumber-formater/issues"
   },
-  "homepage": "https://github.com/varunsingh09/formater#readme",
+  "homepage": "https://github.com/varunsingh09/mynumber-formater#readme",
   "devDependencies": {
     "mocha": "^8.4.0"
   },
